@@ -34,13 +34,11 @@
 (require 'json)
 (require 'shr)
 
-
 
 (defvar php-extras-php-doc-url
   "http://doc.php.net/downloads/json/php_manual_en.json"
   "URL of the JSON list of PHP functions.")
 
-
 
 ;;;###autoload
 (defun php-extras-generate-eldoc ()
