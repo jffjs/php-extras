@@ -191,7 +191,6 @@ The candidates are generated from the
 ;;;###autoload
 (add-hook 'php-mode-hook #'php-extras-autocomplete-setup)
 
-
 ;;; Setup basic Emacs completion-at-point to complete on function names
 
 ;;;###autoload
